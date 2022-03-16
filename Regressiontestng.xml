@@ -3,9 +3,9 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="/ComCastgit/src/test/java/FirstScriptTest.java.SecondScriptTest"/>
-      <class name="/ComCastgit/src/test/java/FirstScriptTest.java.FirstScriptTest"/>
-      <class name="/ComCastgit/src/test/java/FirstScriptTest.java.demoGit.Demo"/>
+      <class name="/ComCastgit/src/test/java/practiceTest.java.SecondScriptTest"/>
+      <class name="/ComCastgit/src/test/java/practiceTest.java.FirstScriptTest"/>
+      <class name="/ComCastgit/src/test/java/practiceTest.java.demoGit.Demo"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
